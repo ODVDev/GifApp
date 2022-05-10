@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.c05923be.css",
-    "main.js": "/static/js/main.f328293a.js",
-    "index.html": "/index.html",
-    "main.c05923be.css.map": "/static/css/main.c05923be.css.map",
-    "main.f328293a.js.map": "/static/js/main.f328293a.js.map"
+    "main.css": "/GifApp/static/css/main.c05923be.css",
+    "main.js": "/GifApp/static/js/main.f328293a.js",
+    "index.html": "/GifApp/index.html",
+    "main.c05923be.css.map": "/GifApp/static/css/main.c05923be.css.map",
+    "main.f328293a.js.map": "/GifApp/static/js/main.f328293a.js.map"
   },
   "entrypoints": [
     "static/css/main.c05923be.css",
