@@ -7,11 +7,9 @@ export const GiftExpertApp = () => {
 
   
 
-  const [categories, setCategories] = useState([ 'Swing Out Sisters']);
+  const [categories, setCategories] = useState([ 'React Web']);
 
- /* const handleAdd = () =>{
-      setCategories([...categories, 'Swing Out Sisters']);
-  }*/
+
 
   return (
     <div>
